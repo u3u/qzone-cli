@@ -2,7 +2,7 @@
 
 > 🛠️ CLI for [qzone-api](https://github.com/u3u/qzone-api)
 
-[![NPM version](https://img.shields.io/npm/v/qzone-cli.svg?style=flat)](https://npmjs.com/package/qzone-cli) [![NPM downloads](https://img.shields.io/npm/dm/qzone-cli.svg?style=flat)](https://npmjs.com/package/qzone-cli) [![CircleCI](https://circleci.com/gh/u3u/qzone-cli/tree/master.svg?style=shield)](https://circleci.com/gh/u3u/qzone-cli/tree/master) [![codecov](https://codecov.io/gh/u3u/qzone-cli/branch/master/graph/badge.svg?token=6cvcdqtqtB)](https://codecov.io/gh/u3u/qzone-cli) [![Prettier code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
+[![NPM version](https://img.shields.io/npm/v/qzone-cli.svg?style=flat)](https://npmjs.com/package/qzone-cli) [![NPM downloads](https://img.shields.io/npm/dm/qzone-cli.svg?style=flat)](https://npmjs.com/package/qzone-cli) [![CircleCI](https://circleci.com/gh/u3u/qzone-cli/tree/master.svg?style=shield)](https://circleci.com/gh/u3u/qzone-cli/tree/master) [![codecov](https://codecov.io/gh/u3u/qzone-cli/branch/master/graph/badge.svg?token=fCMi6LS0rM)](https://codecov.io/gh/u3u/qzone-cli) [![Prettier code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
 ## Screenshots
 ![Preview](https://i.loli.net/2018/01/12/5a587fb04f1c2.png)
