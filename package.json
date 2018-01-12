@@ -1,12 +1,18 @@
 {
   "name": "qzone-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "🛠️ CLI for qzone-api",
+  "keywords": [
+    "qzone",
+    "qzone-cli",
+    "qzone-api"
+  ],
   "repository": {
     "url": "u3u/qzone-cli",
     "type": "git"
   },
   "main": "bin/qzone",
+  "bin": "bin/qzone",
   "types": "types/index.d.ts",
   "files": [
     "bin",
