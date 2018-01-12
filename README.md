@@ -46,5 +46,5 @@ GLOBAL OPTIONS
 
 ## Author
 
-**qzone-cli** © [u3u](https://github.com/u3u), Released under the [MIT](./LICENSE) License.
+**qzone-cli** © [u3u](https://github.com/u3u), Released under the [MIT](./LICENSE) License.<br>
 Authored and maintained by u3u with help from contributors ([list](https://github.com/u3u/qzone-cli/contributors)).
