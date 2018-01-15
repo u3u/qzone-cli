@@ -10,15 +10,15 @@
     esutils "^2.0.2"
     js-tokens "^3.0.0"
 
-"@types/bytes@^2.5.1":
-  version "2.5.1"
-  resolved "https://registry.npmjs.org/@types/bytes/-/bytes-2.5.1.tgz#392c42adb65e16d32328b82b58fbc1611b75da89"
-
 "@types/download@^6.2.1":
   version "6.2.1"
   resolved "http://registry.npm.taobao.org/@types/download/download/@types/download-6.2.1.tgz#56427bd11bebf8002e09abb7a5383dc870af7240"
   dependencies:
     "@types/node" "*"
+
+"@types/entities@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/@types/entities/-/entities-1.1.0.tgz#07ad60479dff7e1b61d95ce96697987d53a662cd"
 
 "@types/inquirer@^0.0.36":
   version "0.0.36"
@@ -615,10 +615,6 @@ builtin-modules@^1.0.0, builtin-modules@^1.1.1:
   version "1.1.1"
   resolved "http://registry.npm.taobao.org/builtin-modules/download/builtin-modules-1.1.1.tgz#270f076c5a72c02f5b65a47df94c5fe3a278892f"
 
-bytes@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.npmjs.org/bytes/-/bytes-3.0.0.tgz#d32815404d689699f85a4ea4fa8755dd13a96048"
-
 cac@^4.3.1:
   version "4.3.1"
   resolved "https://registry.yarnpkg.com/cac/-/cac-4.3.1.tgz#be5e9e521626c9f0b324b70af1d0f7471eba36d3"
@@ -1162,6 +1158,10 @@ enhance-visitors@^1.0.0:
   resolved "http://registry.npm.taobao.org/enhance-visitors/download/enhance-visitors-1.0.0.tgz#aa945d05da465672a1ebd38fee2ed3da8518e95a"
   dependencies:
     lodash "^4.13.1"
+
+entities@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.npmjs.org/entities/-/entities-1.1.1.tgz#6e5c2d0a5621b5dadaecef80b90edfb5cd7772f0"
 
 error-ex@^1.2.0, error-ex@^1.3.1:
   version "1.3.1"
