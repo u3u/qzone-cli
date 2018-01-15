@@ -11,7 +11,7 @@
     "url": "u3u/qzone-cli",
     "type": "git"
   },
-  "main": "bin/qzone",
+  "main": "lib/index.js",
   "bin": {
     "qzone": "bin/qzone"
   },
