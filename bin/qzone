@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 'use strict'
 const cac = require('cac')
-const chalk = require('chalk')
+const logger = require('../lib/logger')
 const { login, logout, downlaod } = require('../lib')
 
 const cli = cac()
@@ -12,7 +12,8 @@ cli.command('logout', 'Logout on Qzone', logout)
 cli.command('download', 'Batch download Qzone photo album', downlaod)
 
 cli.on('error', err => {
-  console.error('\n\n' + chalk.bgRed(' failed '), chalk.red(err.message))
+  logger.log('\n')
+  logger.error(err.message)
   process.exit(1)
 })
 
