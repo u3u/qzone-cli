@@ -37,7 +37,7 @@
   "dependencies": {
     "cac": "^5.0.10",
     "chalk": "^2.3.0",
-    "download": "^6.2.5",
+    "download": "^7.0.0",
     "entities": "^1.1.1",
     "inquirer": "^5.0.0",
     "md5": "^2.2.1",
