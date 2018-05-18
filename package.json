@@ -35,7 +35,7 @@
     "testEnvironment": "node"
   },
   "dependencies": {
-    "cac": "^4.3.1",
+    "cac": "^5.0.10",
     "chalk": "^2.3.0",
     "download": "^6.2.5",
     "entities": "^1.1.1",
