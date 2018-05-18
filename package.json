@@ -26,10 +26,10 @@
     "test": "npm run lint && jest",
     "lint": "xo",
     "lint:fix": "xo --fix",
-    "format": "prettier \"*/**/*.js\" \"bin/**\" --ignore-path ./.prettierignore --write",
+    "format": "prettier \"*/**/*.js\" \"bin/**\" --write",
     "prettier": "npm run format && npm run lint:fix && git status"
   },
-  "author": "u3u <quq@quq.cat>",
+  "author": "u3u <qwq@qwq.cat>",
   "license": "MIT",
   "jest": {
     "testEnvironment": "node"
