@@ -14,15 +14,29 @@
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.7.0.tgz#9a06f4f137ee84d7df0460c1fdb1135ffa6c50fd"
 
-"@types/download@^6.2.1":
-  version "6.2.1"
-  resolved "http://registry.npm.taobao.org/@types/download/download/@types/download-6.2.1.tgz#56427bd11bebf8002e09abb7a5383dc870af7240"
+"@types/decompress@*":
+  version "4.2.2"
+  resolved "https://registry.yarnpkg.com/@types/decompress/-/decompress-4.2.2.tgz#38a299e981862a898e5ac84eb1adc9329a0bad56"
   dependencies:
+    "@types/node" "*"
+
+"@types/download@^6.2.1":
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/@types/download/-/download-6.2.2.tgz#11385a3fd6e1f3300362fb52db119420ecc0fb34"
+  dependencies:
+    "@types/decompress" "*"
+    "@types/got" "*"
     "@types/node" "*"
 
 "@types/entities@^1.1.0":
   version "1.1.0"
   resolved "https://registry.npmjs.org/@types/entities/-/entities-1.1.0.tgz#07ad60479dff7e1b61d95ce96697987d53a662cd"
+
+"@types/got@*":
+  version "8.3.1"
+  resolved "https://registry.yarnpkg.com/@types/got/-/got-8.3.1.tgz#823ded0ce469895be3d01553fec31ff86339ff9f"
+  dependencies:
+    "@types/node" "*"
 
 "@types/inquirer@^0.0.36":
   version "0.0.36"
