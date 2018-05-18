@@ -17,7 +17,7 @@ yarn global add qzone-cli
 ## Usage
 
 ```bash
-qzone 0.0.1
+qzone 0.0.6
 
 🛠️ CLI for qzone-api
 
